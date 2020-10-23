@@ -1,0 +1,10 @@
+/.idea
+/sample/node_modules
+\.DS_Store
+/dist
+node_modules
+/node_modules.zip
+npm-debug.log
+package-lock\.json
+
+yarn-error\.log

@@ -1,0 +1,26 @@
+{
+  "name": "clearup-files",
+  "version": "1.0.0",
+  "description": "批量清理文件夹",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "del": "node libs/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txiejun/clearup-files.git"
+  },
+  "author": "txiejun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txiejun/clearup-files/issues"
+  },
+  "homepage": "https://github.com/txiejun/clearup-files#readme",
+  "dependencies": {
+    "rmdir": "^1.2.0"
+  }
+}
